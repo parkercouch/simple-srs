@@ -1,0 +1,12 @@
+{
+  "name": "simple-srs",
+  "version": "0.1.0",
+  "description": "Simple SRS PWA",
+  "main": "index.js",
+  "author": "Parker Couch",
+  "license": "MIT",
+  "repository": "https://github.com/parkercouch/simple-srs",
+  "dependencies": {
+    "pouchdb-browser": "^7.0.0"
+  }
+}
